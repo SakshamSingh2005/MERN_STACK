@@ -1,0 +1,50 @@
+
+    
+    
+header {
+      text-align: center; /* Center everything */
+      background: #333;
+      padding: 15px;
+    }
+
+    header h1 {
+      margin: 0;
+      padding: 10px 0;
+      font-size: 28px;
+      font-weight: 300;
+    letter-spacing: 8px;
+    color: aliceblue;
+    text-decoration: underline ;
+    }
+
+    nav {
+      background-color: #333;
+      padding: 10px 0;
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: left; /* Center menu items */
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    nav ul li a:hover {
+      color: #ff9800;
+    }
+
+    section{
+        border: 1px solid #333;
+        margin-bottom: 10;
+    }

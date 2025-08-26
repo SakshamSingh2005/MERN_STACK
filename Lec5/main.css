@@ -1,0 +1,16 @@
+h1{
+    font-weight: 300;
+    text-decoration: underline;
+    text-align: center;
+    line-height: 5;
+    letter-spacing: 8px;
+     font-size: 150%;/* absolute and relative size */
+     background-color: rgb(255, 165, 0,0.5);
+     text-transform: uppercase;
+     
+     font-family: "Edu NSW ACT Cursive", cursive;
+  font-optical-sizing: auto;
+    font-style: normal;
+    
+     
+}
